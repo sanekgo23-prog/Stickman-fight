@@ -11,7 +11,7 @@ JUMP_SPEED = 14
 GRAVITY = 0.6
 GROUND_Y = 120
 
-ASSET_PATH = r"C:\Users\Александр\Documents\PycharmProject\Game"
+ASSET_PATH = r".\Game"
 
 
 class Player(arcade.Sprite):
@@ -213,3 +213,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
